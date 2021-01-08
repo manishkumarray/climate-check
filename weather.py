@@ -3,6 +3,7 @@ import datetime
 import requests
 from bs4 import BeautifulSoup
 
+# hello manish
 root=Tk()
 city=StringVar()
 def temp():
