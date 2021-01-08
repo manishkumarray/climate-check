@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # hello manish
+#hello gandhi
 root=Tk()
 city=StringVar()
 def temp():
